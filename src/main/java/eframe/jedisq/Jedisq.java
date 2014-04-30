@@ -2,6 +2,7 @@ package eframe.jedisq;
 
 public class Jedisq {
 
+	
 	/**
 	 * @param args
 	 */
