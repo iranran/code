@@ -4,7 +4,7 @@ public class Jedisq {
 
 	
 	public void lpush(String ...rest){
-		
+		   
 	}
 	/**  
 	 * @param args
